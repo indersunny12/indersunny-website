@@ -1,0 +1,12 @@
+# Node / general
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
