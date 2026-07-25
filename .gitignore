@@ -10,3 +10,4 @@ npm-debug.log*
 # Windows
 Thumbs.db
 Desktop.ini
+.vercel
